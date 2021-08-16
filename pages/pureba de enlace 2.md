@@ -1,2 +1,7 @@
 - hola prueba 2
+- aqui ahora podemos escribir tranquilamente
+- esto si es un placer
+	- pureba 2
+	- prueba 2 .3
+	-
 -
