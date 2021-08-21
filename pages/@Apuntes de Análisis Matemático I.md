@@ -18,5 +18,4 @@ links:: [Local library](zotero://select/library/items/5G34A8TD), [Web library](h
   authors:: [[María D Acosta]], [[Camilo Aparicio]], [[Antonio Moreno]]
   library-catalog:: Zotero
   links:: [Local library](zotero://select/library/items/5G34A8TD), [Web library](https://www.zotero.org/users/8347879/items/5G34A8TD)
-- [[Attachments]]
 	- [Acosta et al. - Apuntes de Análisis Matemático I.pdf](https://www.ugr.es/~jcabello/Analisismatematico.pdf)
