@@ -162,7 +162,7 @@
  :git-auto-push true
  :ui/show-brackets? true
  :editor/logical-outdenting? false
- :zotero/settings-v2 {"default" {:type-id "8347879", :notes-block-text "[[Notes]]", :page-insert-prefix "@", :extra-tags "Zotero"}}
+ :zotero/settings-v2 {"default" {:type-id "8347879", :notes-block-text "[[Notes]]", :page-insert-prefix "@", :extra-tags "Zotero", :attachments-block-text "", :include-attachments? false}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
