@@ -162,7 +162,7 @@
  :git-auto-push true
  :ui/show-brackets? true
  :editor/logical-outdenting? false
- :zotero/settings-v2 {"default" {:type-id "8347879", :notes-block-text "[[Notes]]", :page-insert-prefix "ZOT", :extra-tags "Zotero", :attachments-block-text "", :include-attachments? false, :include-notes? false, :zotero-data-directory ""}}
+ :zotero/settings-v2 {"default" {:extra-tags "Zotero", :zotero-data-directory "", :include-attachments? false, :type-id "8347879", :notes-block-text "[[Notes]]", :page-insert-prefix "ZOT", :prefer-citekey? false, :include-notes? false, :attachments-block-text ""}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
