@@ -8,4 +8,4 @@
 	- Dentro de esta etiqueta colocaremos las literature notes
 - #Permanent_Notes
 	- The third step -- probably the most important step -- is making permanent notes. Go through each note you made in the previous step while thinking about how they relate to what you're learning, your interests, thinking or research. Your goal is not to collect as many notes as possible but to add new values to your existing ideas, arguments and discussions.
-	- Aqui pondremos una serie de enlaces a las perma
+	- Aqui pondremos una serie de enlaces a las Permanent Notes
