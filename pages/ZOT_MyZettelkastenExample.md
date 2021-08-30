@@ -6,4 +6,4 @@
 	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliografica. Iran puestas con el prefijo LN de LiteratureNotes. Dentro de estas pondremos las ideas y las ferencias a la parte del texto que queremos resaltar y que nos traen la idea.
 	- Dentro de esta etiqueta colocaremos las literature notes
 - #Permanent_Notes
-	-
+	- The third step -- probably the most important step -- is making permanent notes. Go through each note you made in the previous step while thinking about how they relate to what you're learning, your interests, thinking or research. Your goal is not to collect as many notes as possible but to add new values to your existing ideas, arguments and discussions.
