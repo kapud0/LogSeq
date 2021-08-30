@@ -1,4 +1,5 @@
 - Esta es una referencia a ZOTERO que sirve de ejemplo pero que no existe como tal. Aqui veremos como organizar.
 -
 - [[LN_MyZettelkastenExample]]
+	- The first step of Luhmann's Zettelkasten is taking literature notes as you read something. These notes contain what you don't want to forget or think you might use in your writing or thinking. But, you have to be careful that a) it has to be brief to make it easy to review later, and b) you have to write it in your own words. This means no copy and pasting. Writing in your own words may take a while, but it forces you to really understand what they mean.
 	-
