@@ -6,3 +6,4 @@
 	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliografica. Iran puestas con el prefijo LN de LiteratureNotes. Dentro de estas pondremos las ideas y las ferencias a la parte del texto que queremos resaltar y que nos traen la idea.
 	- Dentro de esta etiqueta colocaremos las literature notes
 - #Permanent_Notes
+	-
