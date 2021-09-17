@@ -1,4 +1,3 @@
--
+- [[PRINCIPAL_Modos de Uso]]
 -
 - [[prueba favoritos]]
-- [[PRINCIPAL_Modos de Uso]]
