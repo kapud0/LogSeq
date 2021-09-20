@@ -1,6 +1,6 @@
 - Esta es una referencia a ZOTERO que sirve de ejemplo pero que no existe como tal. Aqui veremos como organizar.
 - Estas se llaman Bibliographical Notes y comprende la referencia y los metadatos de la referencia.
-- **Referencial Notes** [[RN_MyZettelkastenExample]]
+- **Referencial Notes** [[RN_MyZettelkastenExample]] #ReferencialNotes
 	- Reference notes are the original text that resonated with you. Other than being useful for citation, capturing them can also give context to what you were thinking, should you return to your notes at a later time. Beau encourages us to capture the whole paragraph but highlight the sentence that resonates to capture the entire idea in essence and give context to the highlight.
 - **Literature Notes** [[LN_MyZettelkastenExample]]
   id:: 6144b96d-b9c7-4c14-bf5a-4b5f9a10d1ac
