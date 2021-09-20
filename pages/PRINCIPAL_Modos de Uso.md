@@ -1,2 +1,2 @@
 - [[ZOT_MyZettelkastenExample]
-- mathematics lecture notes.pdf
+- C:\Users\donpe\Desktop\Mathematics-Lecture-Notes-Templatemathematics lecture notes.pdf
