@@ -1,4 +1,4 @@
-- [[ZOT_MyZettelkastenExample]
+- [[ZOT_MyZettelkastenExample]]
 -
 - {{youtube https://www.youtube.com/watch?v=r_tcDooayOo&ab_channel=MedicDavid}}
 - (C:\Users\donpe\Desktop\Mathematics-Lecture-Notes-Template\mathematics lecture notes.pdf)
