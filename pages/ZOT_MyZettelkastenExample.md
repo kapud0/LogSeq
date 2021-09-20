@@ -1,7 +1,7 @@
 - Esta es una referencia a ZOTERO que sirve de ejemplo pero que no existe como tal. Aqui veremos como organizar.
 - Estas se llaman Bibliographical Notes y comprende la referencia y los metadatos de la referencia.
 -
-- [[LN_MyZettelkastenExample]]
+- Literature Notes [[LN_MyZettelkastenExample]]
 	- The first step of Luhmann's Zettelkasten is taking literature notes as you read something. These notes contain what you don't want to forget or think you might use in your writing or thinking. But, you have to be careful that a) it has to be brief to make it easy to review later, and b) you have to write it in your own words. This means no copy and pasting. Writing in your own words may take a while, but it forces you to really understand what they mean.
 	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliografica. Iran puestas con el prefijo LN de LiteratureNotes. Dentro de estas pondremos las ideas y las referencias a la parte del texto que queremos resaltar y que nos traen la idea.
 	- Dentro de esta etiqueta colocaremos las literature notes
