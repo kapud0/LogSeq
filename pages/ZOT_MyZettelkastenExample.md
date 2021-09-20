@@ -3,9 +3,8 @@
 -
 - **Literature Notes** [[LN_MyZettelkastenExample]]
 	- The first step of Luhmann's Zettelkasten is taking literature notes as you read something. These notes contain what you don't want to forget or think you might use in your writing or thinking. But, you have to be careful that a) it has to be brief to make it easy to review later, and b) you have to write it in your own words. This means no copy and pasting. Writing in your own words may take a while, but it forces you to really understand what they mean.
-	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliografica. Iran puestas con el prefijo LN de LiteratureNotes. Dentro de estas pondremos las ideas y las referencias a la parte del texto que queremos resaltar y que nos traen la idea.
+	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliográfica. Iran puestas con el prefijo LN de LiteratureNotes. Dentro de estas pondremos las ideas y las referencias a la parte del texto que queremos resaltar y que nos traen la idea.
 	- Dentro de esta etiqueta colocaremos las literature notes
-- **Permanent Notes**
-	-
+- **Permanent Notes***
 	- The third step -- probably the most important step -- is making permanent notes. Go through each note you made in the previous step while thinking about how they relate to what you're learning, your interests, thinking or research. Your goal is not to collect as many notes as possible but to add new values to your existing ideas, arguments and discussions.
 	- Aqui pondremos una serie de enlaces a las Permanent Notes
