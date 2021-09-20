@@ -1,1 +1,1 @@
-- [[ZOT_MyZettelkastenExample]]
+- [[ZOT_MyZettelkastenExample]
