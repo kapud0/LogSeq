@@ -3,6 +3,7 @@
 - **Referencial Notes** [[RN_MyZettelkastenExample]]
 	- Reference notes are the original text that resonated with you. Other than being useful for citation, capturing them can also give context to what you were thinking, should you return to your notes at a later time. Beau encourages us to capture the whole paragraph but highlight the sentence that resonates to capture the entire idea in essence and give context to the highlight.
 - **Literature Notes** [[LN_MyZettelkastenExample]]
+  id:: 6144b96d-b9c7-4c14-bf5a-4b5f9a10d1ac
 	- The first step of Luhmann's Zettelkasten is taking literature notes as you read something. These notes contain what you don't want to forget or think you might use in your writing or thinking. But, you have to be careful that a) it has to be brief to make it easy to review later, and b) you have to write it in your own words. This means no copy and pasting. Writing in your own words may take a while, but it forces you to really understand what they mean.
 	- Las Literature Notes haces referencia a las notas que tomamos de una referencia bibliográfica. Iran puestas con el prefijo LN de _LiteratureNotes_. Dentro de estas pondremos las ideas y las referencias a la parte del texto que queremos resaltar y que nos traen la idea.
 	- Dentro de esta etiqueta colocaremos las literature notes
