@@ -1,3 +1,3 @@
 - [[ZOT_MyZettelkastenExample]
 - (C:\Users\donpe\Desktop\Mathematics-Lecture-Notes-Template\mathematics lecture notes.pdf)
-- \
+- [](C:\Users\donpe\Desktop\Mathematics-Lecture-Notes-Template)
