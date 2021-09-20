@@ -1,6 +1,6 @@
 - Esta es una referencia a ZOTERO que sirve de ejemplo pero que no existe como tal. Aqui veremos como organizar.
 - Estas se llaman Bibliographical Notes y comprende la referencia y los metadatos de la referencia.
-## References Notes
+## 1. References Notes
 	- #Reference_Notes [[RN_MyZettelkastenExample]]
 -
 - #Literature_Notes [[LN_MyZettelkastenExample]]
